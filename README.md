@@ -2,7 +2,8 @@
 
 ###
 
-<h3 align="left">🎓 I'm currently a student at Institut Teknologi Sepuluh Nopember (ITS), majoring in Informatics Engineering.</h3>
+<h3 align="left">🎓 I'm currently a student at <strong>Institut Teknologi Sepuluh Nopember (ITS)</strong></h3>
+<h3 align="left">💡 My major is <strong>Informatics Engineering</strong></h3>
 
 ###
 
