@@ -1,8 +1,8 @@
-<h1 align="left">👋 Hi, I'm Very Ardiansyah</h1>
+<h1 align="left">Hi, I'm Very Ardiansyah</h1>
 
 ###
 
-<h3 align="left">🎓 I'm currently a student at Institut Teknologi Sepuluh Nopember (ITS), majoring in Informatics Engineering.</h3>
+<h3 align="left">I'm currently a student at Institut Teknologi Sepuluh Nopember (ITS), majoring in Informatics Engineering.</h3>
 
 ###
 
